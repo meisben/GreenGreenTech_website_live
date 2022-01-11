@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Green Green Robotics</title>
+    <link>https://www.greengreenrobotics.com/contact/</link>
+    <description>Recent content in Contacts on Green Green Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 17:52:35 +0000</lastBuildDate><atom:link href="https://www.greengreenrobotics.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contact_form</title>
+      <link>https://www.greengreenrobotics.com/contact/contact_form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.greengreenrobotics.com/contact/contact_form/</guid>
+      <description>Contact form.We&#39;d love to hear from you!You can reach us using the form below. Please note that we will respondasfast as we can. We only have a small team,and we&#39;ll get back to you as soon as possible!
+Contact us.hbspt.forms.create({portalId: &#34;9342885&#34;,formId: &#34;7f13d007-b175-4744-bf4a-5d41ef179a35&#34;});[Content placeholder] --</description>
+    </item>
+    
+    <item>
+      <title>join_mailing_list</title>
+      <link>https://www.greengreenrobotics.com/contact/join_mailing_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.greengreenrobotics.com/contact/join_mailing_list/</guid>
+      <description>Want to know what we&#39;re up to?Join our mailing list --Occasionally we send news and updates. Please enter your email address if you’d like tosubscribe. We are responsible with your details and will never pass them on to anyone else.Join our mailing list.hbspt.forms.create({portalId: &#34;9342885&#34;,formId: &#34;8985a19f-8182-4fcc-bf84-c2b65e26536a&#34;});</description>
+    </item>
+    
+  </channel>
+</rss>
