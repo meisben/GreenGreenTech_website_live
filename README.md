@@ -4,7 +4,7 @@
 ## Info
 
 Published at:
-[https://meisben.github.io/GreenGreenRobotics_website_live/](https://meisben.github.io/GreenGreenRobotics_website_live/)
+[https://meisben.github.io/GreenGreenTech_website_live/](https://meisben.github.io/GreenGreenTech_website_live/)
 
 ## Details
 
